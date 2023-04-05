@@ -1,2 +1,2 @@
 # MediCenter
-Project for the course B7WEB
+Projeto do curso do B7WEB com FLEXBOX e RESPONSIVIDADE!
